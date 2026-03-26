@@ -9,7 +9,7 @@ enable_public_ip = true
 
 tags = {
   Environment = "QA"
-  Owner       = "KJ"
+  Owner       = "Kshitij"
   Project     = "terraform-web"
 }
 
