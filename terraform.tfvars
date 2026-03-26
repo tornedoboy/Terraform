@@ -8,7 +8,7 @@ ssh_port         = 22
 enable_public_ip = true
 
 tags = {
-  Environment = "dev"
+  Environment = "QA"
   Owner       = "KJ"
   Project     = "terraform-web"
 }
